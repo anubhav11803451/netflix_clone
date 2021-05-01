@@ -2,6 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Deployed App Here
+
+![Screenshot (360)](https://user-images.githubusercontent.com/56965382/116792554-f718ee80-aade-11eb-9518-11660bfd6f72.png)
+
+[Netflix Clone](https://netflix-clone-31520.web.app)
+
 ## Available Scripts
 
 In the project directory, you can run:
